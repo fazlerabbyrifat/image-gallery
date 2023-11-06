@@ -4,7 +4,7 @@ A responsive image gallery built using React JS with reordering, multiple image 
 
 ## Demo
 
-Check out the live demo [here](https://soyeb-image-gallery.netlify.app/).
+Check out the live demo [here](https://benevolent-longma-1e0df4.netlify.app/).
 
 ## Features
 
@@ -30,13 +30,9 @@ Check out the live demo [here](https://soyeb-image-gallery.netlify.app/).
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository
 
-   ```bash
-   git clone https://github.com/yourusername/react-image-gallery.git
-
-2. Navigate to the project folder:
-   cd react-image-gallery
+2. Navigate to the project folder
 
 3. Install dependencies:
    yarn install
